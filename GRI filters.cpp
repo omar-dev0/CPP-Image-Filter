@@ -9,7 +9,7 @@
 #include <iostream>
 #include <cstring>
 #include <iomanip>
-#include <cmath>
+//#include <cmath>
 #include "bmplib.cpp"
 using namespace std;
 unsigned char image [SIZE][SIZE];
