@@ -1,4 +1,4 @@
-// FCI – Programming 1 – 2022 - Assignment 3
+// FCI â€“ Programming 1 â€“ 2022 - Assignment 3
 // Program Name: GRI filters.cpp
 // Last Modification Date: 4/22/2022
 // Author1 and ID and Group: Bassem Wael Mohamed - 20210085 - S10
@@ -9,6 +9,7 @@
 #include <iostream>
 #include <cstring>
 #include <iomanip>
+#include <cmath>
 #include "bmplib.cpp"
 using namespace std;
 unsigned char image [SIZE][SIZE];
