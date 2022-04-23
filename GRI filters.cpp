@@ -77,7 +77,7 @@ void menu(){
     cout << setw(8)<<"S"<<setw(20)<<"|"<<setw(33)<< "Save New Image"<< endl;
     cout << "_______________________" << endl << endl;
     cin >> chose;
-    toupper(chose);
+    chose = toupper(chose);
     //choose which filter you want to use
     while (true){
         if (chose =='1')
@@ -123,19 +123,19 @@ void menu(){
             shrink();
             break;
         }
-        else if (chose == 'a'){
+        else if (chose == 'A'){
             mirror();
             break;
         }
-        else if (chose == 'b'){
+        else if (chose == 'B'){
             shuffle();
             break;
         }
-        else if (chose == 'c'){
+        else if (chose == 'C'){
             blur();
             break;
         }
-        else if (chose == 's'){
+        else if (chose == 'S'){
             save();
             break;
         }
@@ -844,11 +844,11 @@ void check (){
     cin >> chose;
     chose = toupper(chose);
     while(true){
-        if (chose == 's'){
+        if (chose == 'S'){
             save();// if chose = s save modified image
             break;
         }
-        else if (chose == 'm'){
+        else if (chose == 'M'){
             menu();// if chose = m continue modifying
             break;
         }
