@@ -1,5 +1,5 @@
 // FCI – Programming 1 – 2022 - Assignment 3
-// Program Name: GS filters.cpp
+// Program Name: RGB filters.cpp
 // Last Modification Date: 4/22/2022
 // Author1 and ID and Group: Bassem Wael Mohamed - 20210085 - S10
 // Author2 and ID and Group: Omar Osama - 20211067 - s9
