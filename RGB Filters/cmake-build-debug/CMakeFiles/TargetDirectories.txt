@@ -1,0 +1,3 @@
+/Users/omarosama/Desktop/color2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/omarosama/Desktop/color2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarosama/Desktop/color2/cmake-build-debug/CMakeFiles/color2.dir
